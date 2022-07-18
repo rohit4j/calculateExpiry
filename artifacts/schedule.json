@@ -1,0 +1,36 @@
+[{
+		"open": false,
+		"open_at": "",
+		"close_at": ""
+	},
+	{
+		"open": true,
+		"open_at": "09:00",
+		"close_at": "18:00"
+	},
+	{
+		"open": true,
+		"open_at": "09:00",
+		"close_at": "18:00"
+	},
+	{
+		"open": true,
+		"open_at": "09:00",
+		"close_at": "18:00"
+	},
+	{
+		"open": true,
+		"open_at": "09:00",
+		"close_at": "18:00"
+	},
+	{
+		"open": true,
+		"open_at": "09:00",
+		"close_at": "17:00"
+	},
+	{
+		"open": false,
+		"open_at": "",
+		"close_at": ""
+	}
+]
