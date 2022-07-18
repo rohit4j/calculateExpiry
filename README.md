@@ -33,7 +33,9 @@ mvn clean package
 
 # Command to run jar
 cd .\target\ </br>
+</br>
  java -jar CalculateExpiry-jar-with-dependencies.jar < path to schedule json file > < now datetime string > </br>
+ </br>
  eg.  java -jar CalculateExpiry-jar-with-dependencies.jar "C:\Users\h104433\Downloads\schedule.json" "2019-10-14T19:00:00+0800"
 
 
